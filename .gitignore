@@ -1,0 +1,16 @@
+Desktop.ini
+Thumbs.db
+*.Cache
+*.meta
+.build
+.dist
+.tmp
+~$*
+
+*.sublime-*
+Session.vim
+.vimrc
+
+/blamscript/master-taglist-decompile-dumps/*
+/blamscript/halo_2_xbe/*
+/tools/assembly-cli/*

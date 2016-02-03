@@ -1,0 +1,13 @@
+* text=auto
+
+*.hsc diff=text
+
+*.sh text
+*.bat text
+
+*.md text
+LICENSE text
+ACKNOWLEDGMENTS text
+
+*.png binary
+*.jpg binary

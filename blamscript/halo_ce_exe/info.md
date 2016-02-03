@@ -1,0 +1,1 @@
+Skarma's "[Halo Script Extractor 09-03-10](http://hce.halomaps.org/index.cfm?fid=5478)" was used for these scripts [(http://hce.halomaps.org/index.cfm?fid=5478)](http://hce.halomaps.org/index.cfm?fid=5478)
